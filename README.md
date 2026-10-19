@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AmirrAlli/Local-AI/blob/main/Hermes3_Colab.ipynb)
+
 # 🚀 Run Hermes 3 (8B) + Open WebUI on Google Colab (Free T4 GPU)
 
 این پروژه به شما امکان می‌دهد مدل قدرتمند و بدون سانسور **Hermes 3 (8B)** را به همراه رابط کاربری گرافیکی شبیه به چت‌جی‌پی‌تی (**Open WebUI**) به صورت **کاملاً رایگان** روی کارت گرافیک‌های Google Colab بالا بیاورید و از طریق تونل امن Cloudflare به آن متصل شوید.
